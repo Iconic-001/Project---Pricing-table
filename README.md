@@ -1,13 +1,10 @@
 # 💳 Pricing Table
-
 A clean, fully responsive pricing table built with **pure HTML and CSS** — no frameworks, no JavaScript. Powered by CSS Flexbox and a single media query for responsiveness.
 
 <img width="1638" height="965" alt="Screenshot 2026-07-01 125631" src="https://github.com/user-attachments/assets/8d60eae8-9e30-4fd2-a6cf-0c90676dc0c1" />
-
-
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](#) <!-- Replace with your GitHub Pages link after deployment -->
+🔗(https://iconic-001.github.io/Project---Pricing-table/)
 
 ## ✨ Features
 
