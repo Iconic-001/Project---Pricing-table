@@ -60,6 +60,5 @@ The layout uses a CSS media query to switch from a horizontal row to a vertical 
 
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-
+- GitHub:[(https://github.com/Iconic-001)]
 ---
